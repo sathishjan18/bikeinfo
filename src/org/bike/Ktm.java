@@ -13,5 +13,6 @@ public class Ktm implements Bike {
 		Ktm k = new Ktm();
 		k.cost(175000l);
 		k.speed("250 km/hr");
+		System.out.println("completed");
 	}
 }
